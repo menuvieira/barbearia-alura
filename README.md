@@ -1,2 +1,2 @@
 # barbearia-alura
-Barbearia Alura - Projeto Educacional do Programe Desenvolve 23
+Barbearia Alura - Projeto Educacional do Programa Desenvolve 23
